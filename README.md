@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**XmOfficial/XmOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 1. 顶部大图 -->
+<!-- <img src="这里替换成你的图片链接" width="100%" /> -->
 
-Here are some ideas to get you started:
+<!-- <br /> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 2. 欢迎语 -->
+# Welcome to my GitHub profile~ OwO
+
+<br />
+
+<!-- 3. GitHub 统计卡片 -->
+<img src="https://github-readme-stats.vercel.app/api?username=XmOfficial&show_icons=true&theme=radical&hidedot=true" alt="GitHub Stats" />
+
+<br />
+
+<!-- 4. 底部小字或动态 -->
+❤️ I'm currently working on Software and Content Creation.
+
+</div>
