@@ -11,11 +11,11 @@
 <br />
 
 <!-- 3. GitHub 统计卡片 -->
-<img src="https://github-readme-stats.vercel.app/api?username=XmOfficial&show_icons=true&theme=radical&hidedot=true" alt="GitHub Stats" />
+<img src="[https://github-readme-stats.vercel.app/api?username=XmOfficial&show_icons=true&theme=radical&hidedot=true](https://stats.justsong.cn/api?username=XmOfficial&show_icons=true&theme=radical&hidedot=true)" alt="GitHub Stats" />
 
 <br />
 
 <!-- 4. 底部小字或动态 -->
-❤️ I'm currently working on Robotics.
+😭 I'm currently working on final exam.
 
 </div>
