@@ -11,7 +11,7 @@
 <br />
 
 <!-- 3. GitHub 统计卡片 -->
-<img src="[https://github-readme-stats.vercel.app/api?username=XmOfficial&show_icons=true&theme=radical&hidedot=true](https://stats.justsong.cn/api?username=XmOfficial&show_icons=true&theme=radical&hidedot=true)" alt="GitHub Stats" />
+<img src="[https://my-github-readme-stats-nu.vercel.app/api?username=XmOfficial&show_icons=true&theme=radical&hidedot=true](https://stats.justsong.cn/api?username=XmOfficial&show_icons=true&theme=radical&hidedot=true)" alt="GitHub Stats" />
 
 <br />
 
