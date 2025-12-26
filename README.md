@@ -16,6 +16,10 @@
 <br />
 
 <!-- 4. 底部小字或动态 -->
+## My personal goal is to become a full-stack robotic engineer!
+
+## My dream is to bring **cheap robot** in everyone's house! 
+
 😭 I'm currently working on final exam.
 
 </div>
