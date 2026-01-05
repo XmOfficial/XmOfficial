@@ -11,7 +11,8 @@
 <br />
 
 <!-- 3. GitHub 统计卡片 -->
-<img src="https://my-github-readme-stats-nu.vercel.app/api?username=XmOfficial&show_icons=true&theme=radical&hidedot=true" alt="GitHub Stats" />
+<!-- <img src="https://my-github-readme-stats-nu.vercel.app/api?username=XmOfficial&show_icons=true&theme=radical&hidedot=true" alt="GitHub Stats" /> -->
+<img src="https://my-github-readme-stats-nu.vercel.app/api?username=XmOfficial&show_icons=true&theme=radical&cache_seconds=1800&include_all_commits=true" alt="GitHub Stats" />
 
 <br />
 
